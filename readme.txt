@@ -1,0 +1,1 @@
+基于https://github.com/sschmid/Entitas ECS框架修改
